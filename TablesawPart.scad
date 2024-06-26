@@ -13,7 +13,7 @@ riving_knife_width = 130;    // with margin
 
 slit_from_left = riving_knife_from_left;
 
-finger_hole_diameter = 20;
+finger_hole_diameter = 15;
 
 module __Configurator_End__()
 {
